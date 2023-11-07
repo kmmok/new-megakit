@@ -23,7 +23,14 @@ content_blocks:
       - name: "Project California"
         image_path: "/images/portfolio/5.jpg"
         type: "Web Development"
-      - name: "Project California"
-        image_path: "/images/portfolio/6.jpg"
-        type: "Web Development"
+    project_videos:
+      - name: "video name"
+        thumbnail_path: "/images/portfolio/5.jpg"
+        video: "/videos/testvid.mp4"
+      - name: "video name2"
+        thumbnail_path: "/images/portfolio/5.jpg"
+        video: "/videos/testvid.mp4"
+    
+
+
 ---

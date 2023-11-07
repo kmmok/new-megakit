@@ -15,7 +15,10 @@ blueprint:
     - name: ""
       image_path: ""
       type: ""
-
+  project_videos:
+    - name: ""
+      thumbnail_path:
+      video:
 # Overrides any fields in the blueprint when viewing this component in the component browser
 preview:
   preheading: Our works
@@ -39,6 +42,11 @@ preview:
     - name: Project California
       image_path: /images/portfolio/6.jpg
       type: Web Development
+  project_videos:
+    - name: Video test
+      thumbnail_path: /images/portfolio/1.jpg
+      video: /videos/testvid.mp4
+
 
 # Any extra CloudCannon inputs configuration to apply to the blueprint
 _inputs: {}

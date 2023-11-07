@@ -95,6 +95,12 @@
 					enabled: true
 				}
 			});
+			$(this).find('.video-gallery').magnificPopup({
+				type: 'iframe',
+				gallery: {
+					enabled: true
+				}
+			});
 		});
 	}
 
