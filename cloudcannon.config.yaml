@@ -6,6 +6,11 @@ collections_config:
     _enabled_editors:
       - content
       - visual
+  analytics:
+    description: Site analytics
+    documentation:
+      url: https://example.com/documentation
+      text: View our Site analytics here.
 
 _inputs:
   content:
