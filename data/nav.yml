@@ -14,8 +14,8 @@ menu:
   - name: "Pricing"
     url: "/pricing/"
     open_in_new_tab: false
-  - name: "Blog"
-    url: "/blog/"
+  - name: "Projects"
+    url: "/projects/"
     open_in_new_tab: false
   - name: "Contact"
     url: "/contact/"
